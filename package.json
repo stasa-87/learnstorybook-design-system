@@ -85,7 +85,6 @@
     "prettier": "^2.7.1"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0",
   "description": "Storybook design systems tutorial",
   "main": "dist/index.js",
   "repository": "git@github.com:stasa-87/learnstorybook-design-system.git",
