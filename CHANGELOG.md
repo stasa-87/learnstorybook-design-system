@@ -1,3 +1,16 @@
+# v0.2.1 (Tue Oct 11 2022)
+
+#### 🐛 Bug Fix
+
+- fix button radius [#3](https://github.com/stasa-87/learnstorybook-design-system/pull/3) (stanislav.yordanov@securax.org [@stasa-87](https://github.com/stasa-87))
+
+#### Authors: 2
+
+- Stanislav Yordanov (stanislav.yordanov@securax.org)
+- Stasa87 ([@stasa-87](https://github.com/stasa-87))
+
+---
+
 # v0.2.0 (Tue Oct 11 2022)
 
 #### 🚀 Enhancement
