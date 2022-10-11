@@ -1,6 +1,6 @@
 {
   "name": "@stasa87/learnstorybook-design-system",
-  "version": "0.1.2--canary.fc74f18.0",
+  "version": "0.1.2--canary.b11ccbc.0",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
