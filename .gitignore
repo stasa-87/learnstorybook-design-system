@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 /.idea/
 /build-storybook.log
-!/dist/
+/dist/
