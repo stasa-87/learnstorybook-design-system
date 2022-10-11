@@ -36,7 +36,7 @@ const StyledButton = styled.button`
   //border: 10px solid red;
   //font-size: 20px;
   border: 0;
-  border-radius: 3em;
+  border-radius: 4em;
   cursor: pointer;
   display: inline-block;
   overflow: hidden;
