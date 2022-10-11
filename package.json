@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@stasa87/learnstorybook-design-system",
+  "version": "0.1.2--canary.52fcf07.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -22,7 +22,8 @@
     "build-storybook": "build-storybook -s public",
     "chromatic": "npx chromatic --project-token=b2309e90c8a1",
     "test-storybook": "test-storybook",
-    "build-storybook-docs": "build-storybook  --docs"
+    "build-storybook-docs": "build-storybook  --docs",
+    "release": "auto shipit --base-branch=main"
   },
   "eslintConfig": {
     "extends": [
@@ -78,11 +79,16 @@
     "@storybook/react": "^6.5.12",
     "@storybook/test-runner": "^0.8.0",
     "@storybook/testing-library": "^0.0.13",
+    "auto": "^10.37.6",
     "chromatic": "^6.10.1",
     "cross-env": "^7.0.3",
     "jest": "27",
     "prettier": "^2.7.1"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0"
+  "description": "Storybook design systems tutorial",
+  "main": "dist/index.js",
+  "repository": "git@github.com:stasa-87/learnstorybook-design-system.git",
+  "author": "Stanislav Yordanov <stanislav.yordanov@securax.org>",
+  "license": "MIT"
 }
