@@ -1,3 +1,17 @@
+# v0.2.2 (Wed Oct 12 2022)
+
+#### ⚠️ Pushed to `main`
+
+- changelog (stanislav.yordanov@securax.org)
+- Merge remote-tracking branch 'origin/main' into main (stanislav.yordanov@securax.org)
+- fix button radius (stanislav.yordanov@securax.org)
+
+#### Authors: 1
+
+- Stanislav Yordanov (stanislav.yordanov@securax.org)
+
+---
+
 # v0.2.1 (Tue Oct 11 2022)
 
 #### 🐛 Bug Fix
