@@ -7,7 +7,6 @@
 #### Authors: 2
 
 - Stanislav Yordanov (stanislav.yordanov@securax.org)
-- Stasa87 ([@stasa-87](https://github.com/stasa-87))
 
 ---
 
@@ -28,7 +27,6 @@
 #### Authors: 2
 
 - Stanislav Yordanov (stanislav.yordanov@securax.org)
-- Stasa87 ([@stasa-87](https://github.com/stasa-87))
 
 ---
 
