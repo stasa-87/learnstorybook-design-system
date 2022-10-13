@@ -1,3 +1,15 @@
+# v0.3.1 (Thu Oct 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- revert avatar branch changes (stanislav.yordanov@securax.org)
+
+#### Authors: 1
+
+- Stanislav Yordanov (stanislav.yordanov@securax.org)
+
+---
+
 # v0.3.0 (Thu Oct 13 2022)
 
 #### 🚀 Enhancement
