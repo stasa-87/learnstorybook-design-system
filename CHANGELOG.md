@@ -1,3 +1,16 @@
+# v0.5.4 (Mon Oct 24 2022)
+
+#### 🐛 Bug Fix
+
+- avatar list [#14](https://github.com/stasa-87/learnstorybook-design-system/pull/14) (stanislav.yordanov@securax.org [@stasa-87](https://github.com/stasa-87))
+
+#### Authors: 2
+
+- Stanislav Yordanov (stanislav.yordanov@securax.org)
+- Stasa87 ([@stasa-87](https://github.com/stasa-87))
+
+---
+
 # v0.5.3 (Mon Oct 24 2022)
 
 #### 🐛 Bug Fix
