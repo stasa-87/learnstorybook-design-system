@@ -12,7 +12,8 @@ const propTypes = {
 const BifIcon = ({ icon, className }) => {
   const classes = classNames(className, "bif", icon && `bif-${icon}`);
 
-  return <i ref={ref} className={classes} />;
+  // return <i ref={ref} className={classes} />;
+  return <i className={classes} />;
 };
 
 BifIcon.propTypes = propTypes;
