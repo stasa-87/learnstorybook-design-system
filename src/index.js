@@ -5,7 +5,8 @@ import * as icons from "./shared/icons";
 
 export { styles, global, animation, icons };
 
-export * from "./BifIcon";
+export { default as BifIcon } from "./BifIcon/BifIcon";
+// export * from "./BifIcon";
 export * from "./Avatar";
 export * from "./Badge";
 export * from "./Button";
