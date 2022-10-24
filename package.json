@@ -1,6 +1,6 @@
 {
   "name": "@stasa87/learnstorybook-design-system",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
