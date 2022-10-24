@@ -1,4 +1,4 @@
-import { React, forwardRef } from "react";
+// import { React, forwardRef } from "react";
 import PropTypes from "prop-types";
 import classNames from "classnames";
 import { icons } from "./config";
@@ -8,11 +8,12 @@ const propTypes = {
   icon: PropTypes.oneOf([...icons]).isRequired,
 };
 
-const BifIcon = forwardRef(({ icon, className }, ref) => {
+// const BifIcon = forwardRef(({ icon, className }, ref) => {
+const BifIcon = ({ icon, className }) => {
   const classes = classNames(className, "bif", icon && `bif-${icon}`);
 
   return <i ref={ref} className={classes} />;
-});
+};
 
 BifIcon.propTypes = propTypes;
 
